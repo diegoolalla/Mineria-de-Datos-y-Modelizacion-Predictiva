@@ -17,6 +17,12 @@ Este repositorio contiene la plantilla para la documentación del Test de Miner�
 
 Asegúrate de tener instalado Python 3.x y las siguientes librerías:
 
+**Opción 1 - Instalar desde requirements.txt (recomendado):**
+```bash
+pip install -r requirements.txt
+```
+
+**Opción 2 - Instalación manual:**
 ```bash
 pip install jupyter notebook nbconvert numpy pandas scikit-learn matplotlib seaborn
 ```
